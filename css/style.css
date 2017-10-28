@@ -15,6 +15,10 @@ body {
     padding: 0;
     font-family: 'BenchNine', sans-serif;
 }
+
+#adaImage { 
+    height: 100px; 
+}
 li {
     list-style: none;
 }
