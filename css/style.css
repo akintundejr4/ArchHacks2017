@@ -15,10 +15,6 @@ body {
     padding: 0;
     font-family: 'BenchNine', sans-serif;
 }
-
-#adaImage { 
-    height: 100px; 
-}
 li {
     list-style: none;
 }
@@ -49,7 +45,6 @@ h2 {
 }
 .top-header img.logo {
     margin-bottom: 25px;
-    margin-top: -15px;
     transition: all .5s ease 0s;
     -webkit-transition: all .5s ease 0s;
     -moz-transition: all .5s ease 0s;
@@ -163,10 +158,8 @@ li a.active {
 .carousel-caption {
     position: absolute;
     text-align: left;
-    left: 12%;
+    left: 1%;
     line-height: 1;
-    top: 50%;
-    margin-top: -100px;
 }
 .carousel-control .glyphicon-chevron-left,
 .carousel-control .icon-prev {
