@@ -124,6 +124,36 @@ li a.active {
     font-weight: bold;
     margin-top: 0;
 }
+
+#specH1{ 
+   margin-bottom: 30px; 
+} 
+
+.octPos { 
+    padding-top: 40px;
+    font-weight: bolder; 
+    font-size: 54px; 
+    color: black; 
+}
+
+h1.octPos:hover { 
+    background-color: rgb(208, 255, 0);
+}
+
+#theButton { 
+    width: 240px;
+    height: 60px;
+    background: #3a9ecb;
+    color: #fff;
+    font-size: 30px;
+    text-transform: uppercase;
+    border: 0;
+    transition: all .5s ease 0s;
+    -webkit-transition: all .5s ease 0s;
+    -moz-transition: all .5s ease 0s;
+    -o-transition: all .5s ease 0s;
+    -ms-transition: all .5s ease 0s;
+}
 .carousel-caption button {
     width: 240px;
     height: 60px;
