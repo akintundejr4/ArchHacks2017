@@ -436,9 +436,18 @@ h1.octPos:hover {
 .person img {
     width: 100%;
 }
+.res-text { 
+    font-size: 19px !important; 
+}
+
+
+.box-img{ 
+    height: 300px; 
+}
 .person-detail {
     padding: 10px;
     background: #3a9cc8;
+    height: 300px; 
     position: relative;
     transition: all .7s ease 0s;
     -webkit-transition: all .7s ease 0s;
